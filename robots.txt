@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paiesck.github.io/sitemap/sitemap.txt
